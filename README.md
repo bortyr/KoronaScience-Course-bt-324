@@ -1,6 +1,6 @@
 # KoronaScience-Course-bt-324
 
-Course autor: Andrzej Manujło
+**Course autor: Andrzej Manujło**
 
 Assignments and project by Borys Tyran. 
 
@@ -10,7 +10,9 @@ Assignments and project by Borys Tyran.
 
 ![alt text](https://raw.githubusercontent.com/bt-324/KoronaScience-Course-bt-324/master/RetweetsBySourceTop.png)
 
-![alt text](https://raw.githubusercontent.com/bt-324/KoronaScience-Course-bt-324/master/sentimentAnalysis.png)
+![alt text](https://raw.githubusercontent.com/bt-324/KoronaScience-Course-bt-324/master/sentimentAnalysisRM.png)
+
+**Link to collab**: https://colab.research.google.com/github/bt-324/KoronaScience-Course-bt-324/blob/master/KoronaScience_Projekt_BorysTyran_collab.ipynb
 
 Credits for code snippets I based my project on:
 
