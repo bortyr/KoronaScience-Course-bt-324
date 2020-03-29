@@ -1,5 +1,7 @@
 # KoronaScience-Course-bt-324
 
+![alt text](https://raw.githubusercontent.com/bt-324/KoronaScience-Course-bt-324/master/st3am.png)
+
 **Course autor: Andrzej Manujło**
 
 Assignments and project by Borys Tyran. 
