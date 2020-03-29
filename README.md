@@ -4,7 +4,7 @@ Course autor: Andrzej Manujło
 
 Assignments and project by Borys Tyran. 
 
-![Screenshot](CoronaCloudRM.png)
+![alt text](https://raw.githubusercontent.com/bt-324/KoronaScience-Course-bt-324/master/CoronaCloudsRM.png)
 
 Credits for code snippets I based my project on:
 
